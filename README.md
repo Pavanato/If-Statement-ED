@@ -1,6 +1,6 @@
 # If-Statement-ED
 
-Este projeto contém dois programas escritos em C++: `imc.cpp` e `AnoBissexto.cpp`.
+Primeira lista de Estrutura de Dados contendo dois programas em C++: `imc.cpp` e `AnoBissexto.cpp`.
 
 ## [imc.cpp](imc.cpp)
 
